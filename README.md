@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=springboot4&count_private=true&show_icons=true&theme=dark&repo=Art)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=springboot4&count_private=true&show_icons=true&theme=dark&repo=Art)](https://github.com/springboot)
 
 <!---
 springboot4/springboot4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
