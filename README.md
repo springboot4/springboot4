@@ -1,5 +1,4 @@
 
-### Hi there👋,My code is the best in the world✨.
 <div style="display: flex;">
   <img src="https://cdn.staticaly.com/gh/fxzbiz/img@url/2023/07/06/zKTHL5.gif" width="200px">
   <img src="https://cdn.staticaly.com/gh/fxzbiz/img@url/2023/07/06/zKTHL5.gif" width="200px">
